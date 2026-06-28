@@ -1,7 +1,7 @@
 -- ============================================================
 -- Assignment I: CTEs & SQL Window Functions
 -- Course: DPR400210 - Database Programming
--- Student: Nadjitiessem | ID: 31603/2025
+-- Student: Nadjitiessem Gondje Victoire| ID: 31603/2025
 -- Business Scenario: Sales Management System
 -- ============================================================
 
