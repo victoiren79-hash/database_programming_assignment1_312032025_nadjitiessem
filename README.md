@@ -1,6 +1,6 @@
 # CTEs & SQL Window Functions Project
 **Course:** DPR400210 - Database Programming  
-**Student:** Nadjitiessem | **ID:** 31603/2025  
+**Student:** Nadjitiessem Gondje Victoire | **ID:** 31603/2025  
 **Instructor:** Eric Maniraguha  
 
 ---
